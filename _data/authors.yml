@@ -2,17 +2,18 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+  name:              Ishita Gupta
+  email:             ishitag@cs.cmu.edu
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+    Hi! I'm Ishita, a Computer Science student at Carnegie Mellon University passionate about 
+    software engineering and machine learning. I love building impactful technology solutions 
+    and exploring the intersection of AI and human-computer interaction.
     
-    Open `_data/authors.yml` to edit this text.
+    When I'm not coding, you can find me exploring new technologies, contributing to open-source 
+    projects, or enjoying a good cup of coffee while reading about the latest in tech.
 
   # This photo will be used in the about section
   picture:
@@ -27,9 +28,10 @@ author1:
   # Rearrange to change the order in which they appear
   # You can also provide an absolute URL (starting with https://) instead of usernames
   social:
-    twitter:         <username>
-    github:          <username>
-    # email:           <mail@domain.tld>
+    github:          ishitagupta
+    linkedin:        ishita-gupta-cmu
+    # email:           ishitag@cs.cmu.edu
+    # twitter:         <username>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
     # google:          <number>
@@ -58,7 +60,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>

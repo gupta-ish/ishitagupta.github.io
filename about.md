@@ -2,12 +2,62 @@
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Computer Science student at CMU passionate about software engineering, 
+  machine learning, and building impactful technology solutions.
 hide_description: true
 redirect_from:
   - /download/
 ---
+
+# About Me
+
+<!--author-->
+
+## Education
+
+**Carnegie Mellon University**  
+*Bachelor of Science in Computer Science*  
+Expected Graduation: 2026  
+GPA: 3.8/4.0
+
+**Relevant Coursework:**
+- Data Structures and Algorithms
+- Introduction to Machine Learning
+- Computer Systems
+- Principles of Software Construction
+- Discrete Mathematics
+- Linear Algebra
+
+## Skills
+
+**Programming Languages:** Python, Java, C++, JavaScript, TypeScript, SQL  
+**Technologies & Frameworks:** React, Node.js, TensorFlow, PyTorch, Git, Docker  
+**Tools & Platforms:** AWS, Google Cloud Platform, Linux, VS Code, Jupyter Notebooks  
+**Soft Skills:** Team Leadership, Problem Solving, Technical Communication, Agile Development
+
+## Interests & Activities
+
+I'm passionate about exploring the intersection of artificial intelligence and human-computer interaction. When I'm not coding, you can find me:
+
+- Contributing to open-source projects
+- Participating in hackathons and coding competitions
+- Reading about emerging technologies
+- Mentoring junior developers
+- Exploring new coffee shops in Pittsburgh
+
+## What I'm Looking For
+
+I'm actively seeking internship opportunities in software engineering, with a particular interest in:
+- Machine Learning Engineering
+- Full-Stack Development
+- Data Science
+- AI/ML Research
+
+Feel free to reach out if you'd like to collaborate on a project or discuss potential opportunities!
+
+---
+
+*"The best way to predict the future is to invent it." - Alan Kay*
 
 # About
 
